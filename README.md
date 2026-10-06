@@ -25,7 +25,8 @@ Unzip and drag `microsensysRFID.xcframework` into your Xcode project ("Embed & S
 
 ## Documentation
 
-See [`microsensysRFID.md`](../../releases/latest) in the latest release for the full quick-start guide and API reference. Two protocol modes are covered there: **SPC** (Script Programmed Communication) and **DOC** (Direct Online Communication) — exactly one is selected at app start.
+See [`microsensysRFID.md`](../../releases/latest) in the latest release for the full quick-start guide and API reference.  
+Two protocol modes are covered there: **SPC** (Script Programmed Communication) and **DOC** (Direct Online Communication) — exactly one is selected at app start.
 
 ## License
 
@@ -33,5 +34,5 @@ See [`LICENSE.txt`](LICENSE.txt).
 
 ## Support
 
-For coding questions or questions about this library, you can use [support@microsensys.de](mailto:support@microsensys.de)
+For coding questions or questions about this library, you can use [support@microsensys.de](mailto:support@microsensys.de)  
 For general questions about the company or our devices, you can contact us using [info@microsensys.de](mailto:info@microsensys.de)
