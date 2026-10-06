@@ -1,0 +1,94 @@
+microsensysRFID Library - License
+
+Copyright (c) Micro-Sensys GmbH. All rights reserved.
+
+
+1. Definitions
+
+"Library" means the microsensysRFID software in binary form and its
+accompanying documentation, as provided by Micro-Sensys GmbH.
+
+"Microsensys Hardware" means RFID readers and other devices
+manufactured by Micro-Sensys GmbH.
+
+
+2. Ownership
+
+The Library is and remains the property of Micro-Sensys GmbH.
+No ownership rights are transferred to you.
+
+
+3. Grant of license
+
+Micro-Sensys GmbH grants you a non-exclusive, non-transferable,
+non-sublicensable, royalty-free right to
+
+  a) use the Library to develop applications that communicate with
+     Microsensys Hardware, and
+
+  b) distribute the Library in unmodified binary form, embedded in
+     those applications, to your end users, who may use it only as
+     part of your application.
+
+
+4. Restrictions
+
+  a) The Library must only be used with Microsensys Hardware.
+
+  b) You must not modify, adapt or translate the Library.
+
+  c) You must not reverse engineer, decompile or disassemble the
+     Library, except where mandatory law expressly permits this.
+
+  d) You must not distribute the Library on its own or as part of
+     another software library or SDK.
+
+  e) You must not remove or alter copyright or license notices.
+
+
+5. No warranty, limitation of liability and support
+
+  5.1 The Library is provided free of charge and "as is". To the
+      extent permitted by law, Micro-Sensys GmbH gives no warranty
+      that the Library is free of defects or suitable for a
+      particular purpose.
+
+  5.2 Micro-Sensys GmbH is liable only for intent and gross
+      negligence. Liability for slightly negligent breaches of duty
+      is excluded, because the Library is provided free of charge.
+
+  5.3 Sections 5.1 and 5.2 do not apply to liability for injury to
+      life, body or health, to liability under the German Product
+      Liability Act (Produkthaftungsgesetz), to fraudulently
+      concealed defects, or to guarantees expressly given in
+      writing by Micro-Sensys GmbH.
+
+  5.4 Micro-Sensys GmbH is under no obligation to provide
+      maintenance, support, updates, or upgrades for the Library.
+
+
+6. Third-Party Components
+
+The Library may contain, require, or interact with third-party
+software, including open-source software, which is subject to
+separate license terms. Any applicable third-party license terms
+and notices are provided in the documentation accompanying the
+Library.
+
+
+7. Termination
+
+This license ends automatically if you violate its terms. In that
+case you must stop using the Library and delete all copies.
+
+
+8. Governing law
+
+This license is governed by the laws of the Federal Republic of
+Germany.
+
+
+9. Severability
+
+If a provision of this license is or becomes invalid, the remaining
+provisions stay in effect.
