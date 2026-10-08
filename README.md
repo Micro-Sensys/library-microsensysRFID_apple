@@ -28,6 +28,18 @@ Unzip and drag `microsensysRFID.xcframework` into your Xcode project ("Embed & S
 See [`microsensysRFID.md`](../../releases/latest) in the latest release for the full quick-start guide and API reference.  
 Two protocol modes are covered there: **SPC** (Script Programmed Communication) and **DOC** (Direct Online Communication) — exactly one is selected at app start.
 
+## Sample App
+
+The `SPC-DOC-SAMPLE/` folder contains an example Xcode project. It does **not**
+include `microsensysRFID.xcframework` (see [Installation](#installation)).
+
+1. Download `microsensysRFID.xcframework.zip` from the [Releases](../../releases) page
+   (e.g. release *microsensysRFID v1.0.0 (Build 1)*, tag `v1.0.0`) and unzip it.
+2. Place it at `SPC-DOC-SAMPLE/microsensysRFID.xcframework`.
+3. Open `SPC-DOC-SAMPLE.xcodeproj` in Xcode — the project already references this
+   path, so the framework is picked up automatically once it's in place.
+4. Build and run on a physical device (BLE is not available in the simulator).
+
 ## License
 
 See [`LICENSE.txt`](LICENSE.txt).
