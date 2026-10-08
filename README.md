@@ -20,6 +20,7 @@ Download the latest release from the [Releases](../../releases) page. Each relea
 
 - `microsensysRFID.xcframework.zip` — the framework binary
 - `microsensysRFID.md` — full documentation (quick start, API reference)
+- `LICENSE.txt` — the license valid for that release
 
 Unzip and drag `microsensysRFID.xcframework` into your Xcode project ("Embed & Sign").
 
@@ -42,7 +43,7 @@ include `microsensysRFID.xcframework` (see [Installation](#installation)).
 
 ## License
 
-See [`LICENSE.txt`](LICENSE.txt).
+See [`LICENSE.txt`](LICENSE.txt). The license may change between versions — the `LICENSE.txt` attached to each release applies to that release.
 
 ## Support
 
